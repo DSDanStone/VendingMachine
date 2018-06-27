@@ -1,0 +1,14 @@
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone\bin\Debug\Capstone.exe
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone\bin\Debug\Capstone.pdb
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone\obj\Debug\Capstone.exe
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone\obj\Debug\Capstone.pdb
+C:\Users\Daniel Stone\source\repos\VendingMachine\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\Daniel Stone\source\repos\VendingMachine\Capstone\bin\Debug\Capstone.exe
+C:\Users\Daniel Stone\source\repos\VendingMachine\Capstone\bin\Debug\Capstone.pdb
+C:\Users\Daniel Stone\source\repos\VendingMachine\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+C:\Users\Daniel Stone\source\repos\VendingMachine\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Stone\source\repos\VendingMachine\Capstone\obj\Debug\Capstone.exe
+C:\Users\Daniel Stone\source\repos\VendingMachine\Capstone\obj\Debug\Capstone.pdb

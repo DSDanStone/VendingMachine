@@ -1,0 +1,17 @@
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Capstone.Tests.dll
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Capstone.Tests.pdb
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\obj\Debug\Capstone.Tests.csprojAssemblyReference.cache
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\obj\Debug\Capstone.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\obj\Debug\Capstone.Tests.csproj.CopyComplete
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\obj\Debug\Capstone.Tests.dll
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\obj\Debug\Capstone.Tests.pdb
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Capstone.exe
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Capstone.pdb
+C:\Users\Daniel Stone\TeamExercises\c-module-1-capstone-team-2\Capstone.Tests\bin\Debug\Capstone.exe.config
